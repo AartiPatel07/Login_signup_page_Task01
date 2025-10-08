@@ -10,10 +10,9 @@ Demonstrates form handling, flash messages, and route redirection.
 ---
 
 ## 🗂️ Project Structure
-app.py
 
-templates/
-└─ login.html
+app.py
+login.html
 
 
 
