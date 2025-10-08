@@ -11,6 +11,7 @@ Demonstrates form handling, flash messages, and route redirection.
 
 ## 🗂️ Project Structure
 app.py
+
 templates/
 └─ login.html
 
@@ -23,11 +24,12 @@ templates/
 Install Flask and run the app:
 
 pip install flask
+
 python app.py
 
 Then open in your browser:
 👉 http://127.0.0.1:5000  or set up own new port
-using flask run -p 5001
+using flask run -p 5001 👉 http://127.0.0.1:5001
 
 🧩 Features
 
@@ -53,6 +55,7 @@ Uses Post/Redirect/Get pattern
 🧪 Test
 
 ✅ Correct Login: admin / 1234 → Redirects to Welcome page
+
 ❌ Wrong Login: Shows “Invalid username or password”
 
 
