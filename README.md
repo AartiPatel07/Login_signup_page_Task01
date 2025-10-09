@@ -33,8 +33,8 @@ using flask run -p 5001 👉 http://127.0.0.1:5001
 
 ---
 
+<img width="1913" height="1009" alt="output_page" src="https://github.com/user-attachments/assets/63f3a371-cece-49cc-8788-8ac423734bb6" />
 
-<img width="1899" height="995" alt="output" src="https://github.com/user-attachments/assets/6b7320fa-b1b2-4cc4-b0f7-f8d1f82f09ba" />
 
 
 🧩 Features
